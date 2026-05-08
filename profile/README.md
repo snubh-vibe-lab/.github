@@ -1,6 +1,4 @@
-# SNUBH Vibe Lab for Established Clinicians
-
-분당서울대병원 중견교수 바이브랩 *SNUBH Vibe Lab for Established Clinicians*
+# 분당서울대병원 중견교수 바이브랩 SNUBH Vibe Lab for Established Clinicians
 
 > AI 도구를 직접 만들고, 직접 쓰는 중견교수 모임 *Built by established clinicians, for the workflows they actually run.*
 
