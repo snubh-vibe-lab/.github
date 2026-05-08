@@ -1,4 +1,4 @@
-# Vibe Lab
+# SNUBH Vibe Lab for Established Clinicians
 
 분당서울대병원 중견교수 바이브랩 *SNUBH Vibe Lab for Established Clinicians*
 
