@@ -1,10 +1,10 @@
 # Vibe Lab
 
-분당서울대병원 중견교수 바이브랩
-*SNUBH Vibe Lab for Established Clinicians*
+분당서울대병원 중견교수 바이브랩 *SNUBH Vibe Lab for Established Clinicians*
 
-> AI 도구를 직접 만들고, 직접 쓰는 중견교수 모임
-> *Built by established clinicians, for the workflows they actually run.*
+> AI 도구를 직접 만들고, 직접 쓰는 중견교수 모임 *Built by established clinicians, for the workflows they actually run.*
+
+**GitHub:** <https://github.com/snubh-vibe-lab>
 
 ---
 
@@ -38,11 +38,11 @@
 
 ---
 
-## 운영진
+## Repositories
 
-- **회장:** 황성일 (영상의학과)
-- **총무:** 전기현 (순환기내과) / 임헌종 (영상의학과)
-- **Technical Supervisor:** 이경준 (영상의학과 / Monitor Corporation CTO)
+- [`.github`](https://github.com/snubh-vibe-lab/.github) — Organization profile and templates
+- [`snubh-ai-cookbook`](https://github.com/snubh-vibe-lab/snubh-ai-cookbook) — Validated prompts and workflows for clinical AI translation *(MIT)*
+- [`onboarding`](https://github.com/snubh-vibe-lab/onboarding) — 신규 멤버 온보딩 자료
 
 ---
 
