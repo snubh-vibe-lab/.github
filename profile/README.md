@@ -43,6 +43,8 @@
 - [`.github`](https://github.com/snubh-vibe-lab/.github) — Organization profile and templates
 - [`snubh-ai-cookbook`](https://github.com/snubh-vibe-lab/snubh-ai-cookbook) — Validated prompts and workflows for clinical AI translation *(MIT)*
 - [`onboarding`](https://github.com/snubh-vibe-lab/onboarding) — 신규 멤버 온보딩 자료
+- ['monthly-workshop'](https://github.com/snubh-vibe-lab/monthly-workshop). 월간 워크샵 자료
+- ['Assets'](https://github.com/snubh-vibe-lab/Assets). 기타자료
 
 ---
 
